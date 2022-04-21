@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Start template with Gulp",
   "author": "ANDRII SYNIUK",
-  "private": true,
+  "private": false,
   "license": "GNU General Public License (GPL)",
   "devDependencies": {
     "browser-sync": "latest",
